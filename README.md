@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Deezify](https://github.com/Ndibechinonso/music-app.git)
 
-- 🌱 I’m currently learning **ExpressJs, Angular**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://ndibe-chinonso.netlify.app/](https://ndibe-chinonso.netlify.app/)
 
-- 💬 Ask me about **ReactJs, Redux, Bootstrap, JavaScript, CSS, HTML5**
+- 💬 Ask me about **Angular, ReactJs, Redux, Bootstrap, JavaScript, CSS, HTML5**
 
 - 📫 How to reach me **edwardndibe@gmail.com**
 
